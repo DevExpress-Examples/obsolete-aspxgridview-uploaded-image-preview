@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomException.cs](./CS/App_Code/CustomException.cs) (VB: [CustomException.vb](./VB/App_Code/CustomException.vb))
+* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))**
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+<!-- default file list end -->
 # OBSOLETE - Inserting a new row in ASPxGridView with the image preview enabled
 
 
